@@ -1,9 +1,1 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-my name is Song Zijian.
+My name is Song Zijian. I am currently a PhD student in sysu.
